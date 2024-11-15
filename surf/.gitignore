@@ -1,0 +1,10 @@
+# path:   /home/klassiker/.local/share/repos/surf/.gitignore
+# author: klassiker [mrdotx]
+# github: https://github.com/mrdotx/surf
+# date:   2021-01-15T14:03:08+0100
+
+/config.h
+/surf
+/surf.o
+/webext-surf.o
+/webext-surf.so

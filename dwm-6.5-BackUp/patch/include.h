@@ -1,0 +1,38 @@
+/* Bar functionality */
+#include "bar_indicators.h"
+#include "bar_tagicons.h"
+#include "bar.h"
+
+#include "bar_alpha.h"
+#include "bar_alternativetags.h"
+#include "bar_ewmhtags.h"
+#include "bar_ltsymbol.h"
+#include "bar_status.h"
+#include "bar_status2d.h"
+#include "bar_tags.h"
+#include "bar_wintitle.h"
+#include "bar_fancybar.h"
+#include "bar_awesomebar.h"
+#include "bar_systray.h"
+#include "bar_wintitleactions.h"
+
+/* Other patches */
+#include "alttab.h"
+#include "attachx.h"
+#include "autostart.h"
+#include "focusmaster.h"
+#include "focusurgent.h"
+#include "mpdcontrol.h"
+#include "restartsig.h"
+#include "rotatestack.h"
+#include "scratchpad.h"
+#include "setborderpx.h"
+#include "swallow.h"
+#include "vanitygaps.h"
+#include "xrdb.h"
+/* Layouts */
+#include "layout_fibonacci.h"
+#include "layout_flextile-deluxe.h"
+#include "layout_monocle.h"
+#include "layout_tile.h"
+
